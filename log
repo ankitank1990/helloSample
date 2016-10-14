@@ -1,0 +1,39 @@
+[33mcommit fda10eb5a85915a561d032d649fc3f1e0daca5ae[m
+Author: ankitank1990 <ankitank10@yahoo.com>
+Date:   Fri Oct 14 10:01:51 2016 +0530
+
+    added new index from bash
+
+[33mcommit eca42a60c7f4ab7465d766240ac5c54f138c9ef0[m
+Merge: f884c47 f872deb
+Author: ankitank1990 <ankitank10@yahoo.com>
+Date:   Fri Oct 14 09:45:30 2016 +0530
+
+    Merge branch 'master' of https://github.com/ankitank1990/helloSample
+
+[33mcommit f884c477364e756328cbc48e4df7184ca37de789[m
+Author: ankitank1990 <ankitank10@yahoo.com>
+Date:   Fri Oct 14 09:43:58 2016 +0530
+
+    Added new file from bash
+
+[33mcommit f872deb5094c09424009b953015ba01120e37600[m
+Merge: aefdc03 cd4a8c4
+Author: ankitank1990 <ankitank10@yahoo.com>
+Date:   Thu Oct 13 16:54:35 2016 +0530
+
+    Merge pull request #1 from ankitank1990/newBranch
+    
+    Update README.md
+
+[33mcommit cd4a8c41064d045b48b99a86351040368a2bc001[m
+Author: ankitank1990 <ankitank10@yahoo.com>
+Date:   Thu Oct 13 16:52:28 2016 +0530
+
+    Update README.md
+
+[33mcommit aefdc03dbe9fb230c71be0363ae39ec185d48d86[m
+Author: ankitank1990 <ankitank10@yahoo.com>
+Date:   Thu Oct 13 16:51:05 2016 +0530
+
+    Initial commit
